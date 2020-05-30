@@ -7,3 +7,5 @@ if($_GET['name']){
 }
 
 echo $_GET['address'] ? $_GET['address'] : '';
+
+reset();
